@@ -60,10 +60,8 @@ Our goal was to simulate a self-regulating farm environment capable of reacting 
 
 ## 📸 Visuals
 
-![[photo_2025-05-15 13.40.52.jpeg]]
-
-![[photo_2025-05-15 13.40.51.jpeg]]
-
+![Hello](Media/media3.jpeg)
+![Hello](Media/media2.jpeg)
 
 
 ---
